@@ -6,4 +6,6 @@ Instalation
 
 Preparation
 
+How to use
+
 Ending
